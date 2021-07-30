@@ -1,6 +1,6 @@
 Step 1 -  Download models and extract them
 
-Step 2 - download YOLO v5 from this repo, follow the readme(inside the YOLOv5s folder) and directly paste the model files into downloaded yolov5-master folder
+Step 2 - download YOLO v5 from this repo or from offcial YOLO github repo(https://github.com/ultralytics/yolov5), follow the readme(inside the YOLOv5s folder) and directly paste the model files into downloaded yolov5-master folder
 
 QR Code detection is diffrent from other detection models so no need to put QR code into yolov5-master folder_
 
