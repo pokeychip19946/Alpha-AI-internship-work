@@ -4,5 +4,5 @@ Step 2 - directly paste the model files into downloaded yolov5-master folder
 
 QR Code detection is diffrent from other detection models so no need to put QR code into yolov5-master folder_
 
-_NOTE- In each model folder their is a detect.py file which is same for all the models(their is no difference so you can use any of the detect.py for each and every models) 
-I kept detect.py file in each model zipped folder just for easy access nothing else :)    _
+NOTE- In each model folder their is a detect.py file which is same for all the models(their is no difference so you can use any of the detect.py for each and every models) 
+I kept detect.py file in each model zipped folder just for easy access nothing else :)
