@@ -6,3 +6,6 @@ QR Code detection is diffrent from other detection models so no need to put QR c
 
 NOTE- In each model folder their is a detect.py file which is same for all the models(their is no difference so you can use any of the detect.py for each and every models) 
 I kept detect.py file in each model zipped folder just for easy access nothing else :)
+
+
+![image](https://user-images.githubusercontent.com/60467333/127677818-e6afa521-3d55-4c78-a75d-f6af222e9db3.png)
